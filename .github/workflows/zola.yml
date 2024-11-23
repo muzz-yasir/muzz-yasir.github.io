@@ -1,0 +1,39 @@
+# Put this content in .github/workflows/zola.yml
+name: Zola on GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+      - name: Build only
+        uses: shalzz/zola-deploy-action@v0.17.2
+        env:
+          BUILD_DIR: .
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_ONLY: true
+
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+      - name: Build and deploy
+        uses: shalzz/zola-deploy-action@v0.17.2
+        env:
+          PAGES_BRANCH: gh-pages
+          BUILD_DIR: .
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
