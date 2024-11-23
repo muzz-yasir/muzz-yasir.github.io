@@ -21,5 +21,5 @@ _prev: discrete mathematics @ warwick, engineering @ google, principal @ [warwic
     - [graphworld (contributor)](https://github.com/google-research/graphworld)
         ![placeholder](https://github.com/google-research/graphworld/blob/main/nc_results.gif?raw=true "graphworld gif")
     - [lexperience](https://github.com/muzz-yasir/Lexperience)
-        ![placeholder](/images/lexperience.jpg "Lexperience API design")   
+        ![placeholder](/images/lexperience.jpeg "Lexperience API design")   
 <!-- - [What is this thing called Discrete Mathematics?](./post-example-with-hr) -->
