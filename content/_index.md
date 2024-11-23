@@ -21,5 +21,5 @@ _prev: discrete mathematics @ warwick, engineering @ google, principal @ [warwic
     - [graphworld (contributor)](https://github.com/google-research/graphworld)
         ![placeholder](https://github.com/google-research/graphworld/blob/main/nc_results.gif?raw=true "graphworld gif")
     - [lexperience](https://github.com/muzz-yasir/Lexperience)
-        ![placeholder](https://private-user-images.githubusercontent.com/56521243/311507770-5aa3954d-4fec-48a3-a7bc-f6985b215319.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIzODQ3NjIsIm5iZiI6MTczMjM4NDQ2MiwicGF0aCI6Ii81NjUyMTI0My8zMTE1MDc3NzAtNWFhMzk1NGQtNGZlYy00OGEzLWE3YmMtZjY5ODViMjE1MzE5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIzVDE3NTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5NWQyMzg4YzYxOTA2ODAwMDJlNDY4Y2IyZjJiZmY1YjEwYWNkM2UxZTRiZWIxYzUyYjc5MzE2Zjc0MTgxMTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JQwdAmLp_wuFqR-T4qm-OyJVszqRs6QNN1-UAPERpLY "Lexperience API design")   
+        ![placeholder](/images/lexperience.jpg "Lexperience API design")   
 <!-- - [What is this thing called Discrete Mathematics?](./post-example-with-hr) -->
