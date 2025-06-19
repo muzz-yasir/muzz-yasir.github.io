@@ -12,7 +12,7 @@ _prev: discrete mathematics @ warwick, product engineering @ google, principal @
 
 - more on me,
     - [research interests](./research-interests) and [updates](./news)
-    - [scholar](https://scholar.google.com/citations?user=mObz9eIAAAAJ&hl=en), [linkedin](https://linkedin.com/in/mustafa-yasir/), [github](https://github.com/muzz-yasir)
+    - [scholar](https://scholar.google.com/citations?user=mObz9eIAAAAJ&hl=en), [linkedin](https://linkedin.com/in/mustafa-yasir/), [twitter](https://x.com/MuzzYasir), [github](https://github.com/muzz-yasir)
 - some posts,
     - [an ode to research](./an-ode-to-research)🎶
     - [sparks of bostrom](./sparks-of-bostrom)👽
