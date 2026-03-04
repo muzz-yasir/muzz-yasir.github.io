@@ -1,6 +1,6 @@
 theme = "no-style-please"
 # The URL the site will be built for
-base_url = "https://discretedeliberations.xyz"
+base_url = "https://muzz-yasir.github.io"
 
 taxonomies = [
     {name = "tags" }
